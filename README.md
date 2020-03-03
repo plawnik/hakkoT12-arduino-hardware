@@ -4,7 +4,7 @@ Hardware part of simple HAKKO T12 soldering station based on this firmware https
 Drawed in Cadsoft Eagle 7.7.0
 
 Single sided pcb, only THT parts.
-Arduino pro mini + encoder + lcd 1602 hd44780
+Arduino pro mini + encoder + lcd 1602 hd44780 on i2c or lcd 0802 hd44780 on parallel 4 bit mode.
 
 ![alt text](https://github.com/miszczo/hakkoT12-arduino-hardware/blob/master/layout.png?raw=true)
 ![alt text](https://github.com/miszczo/hakkoT12-arduino-hardware/blob/master/mount.png?raw=true)
